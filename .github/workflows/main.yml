@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
     <style>
         :root {
-            --primary: #0f766e; /* Medical Teal */
+            --primary: "#0f766e"
             --secondary: #4338ca; /* Tech Indigo */
             --accent: #8b5cf6; /* AI Purple */
             --bg-light: #f8fafc;
